@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Descompactador
+GenericName=Extrair vários arquivos juntos
+Comment=Extrai vários arquivos compactados na mesma pasta, mesclando diretórios
+Exec=@EXEC@ %F
+Icon=archive-extract
+Terminal=false
+Categories=Qt;KDE;Utility;Archiving;
+Keywords=extrair;descompactar;zip;rar;7z;tar;mesclar;
